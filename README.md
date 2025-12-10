@@ -19,8 +19,6 @@ Create the file and paste this YAML verbatim.
 
 name: AI Code Review (GitHub Models Free)
 
-name: AI Code Review (GitHub Models Free)
-
 on:
   pull_request:
     types: [opened, synchronize]
