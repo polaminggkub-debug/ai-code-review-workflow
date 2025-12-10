@@ -2,11 +2,9 @@
 
 Free AI-powered code review using GitHub Models (GPT-4o Mini).
 
-## Quick Setup (Copy & Paste)
+## Quick Setup (One Click Copy)
 
-Just copy the prompt below and paste it to your AI assistant (Cursor, ChatGPT, Claude, etc.):
-
----
+Copy the entire block below and paste it to your AI assistant (Cursor, ChatGPT, Claude, etc.):
 
 ```
 Please create a new file at the following exact path:
@@ -18,9 +16,7 @@ Write the file using EXACTLY the YAML content below.
 Do NOT modify, rewrite, or change anything.
 
 Create the file and paste this YAML verbatim.
-```
 
-```yaml
 name: AI Code Review (GitHub Models Free)
 
 on:
